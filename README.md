@@ -12,7 +12,7 @@ This project explores the comparative performance of these models on fundus imag
 ## 🚀 What This Repository Contains
 
 - **Preprocessing and Augmentation** of fundus images
-- **Model Training Pipelines** for CNN, VGG16, and ViT
+- **Model Training Pipelines** for CNN, VGG19, and ViT
 - **Evaluation Scripts**: accuracy, confusion matrix, ROC-AUC
 - **Visualization Tools**: training curves, Grad-CAM heatmaps
 
@@ -21,7 +21,7 @@ This project explores the comparative performance of these models on fundus imag
 ## 🔬 Key Highlights
 
 - 🧠 Vision Transformer showed fast convergence and high training accuracy  
-- ⚖️ VGG16 balanced performance with pre-trained weights  
+- ⚖️ VGG19 balanced performance with pre-trained weights  
 - 💡 CNN model provided excellent parameter efficiency  
 - 🎯 Grad-CAM visualizations offered interpretability of the model predictions
 
